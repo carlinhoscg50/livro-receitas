@@ -9,6 +9,7 @@ Olá! Seja bem vindo ao meu livro de receitas:wave:
 - Strogonofe de Frango
 - Pavê
 - Pastel
+- Pudim
 
 
 
